@@ -1,0 +1,16 @@
+{
+  "name": "dev_new",
+  "version": "1.0.0",
+  "description": "Um repositório de treino para eu aprender",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
